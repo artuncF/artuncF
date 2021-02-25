@@ -7,6 +7,6 @@
 - 📝 I write articles on: https://fuartunc.medium.com/
 - 📫 You can reach me from: fuartunc@gmail.com
 
-![](https://komarev.com/ghpvc/?username=artuncF&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=artuncF&color=brightgreen)<br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artuncF)](https://github.com/anuraghazra/github-readme-stats)
 ![Furkan Artunc's GitHub stats](https://github-readme-stats.vercel.app/api?username=artuncF&count_private=true)
